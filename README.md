@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ishallwin20
+- 👀 I’m interested in building tech products while maximising social impact.
+- 🌱 I’m currently learning web3, DSA, and mostly backend.
+- 💞️ I’m looking to collaborate on anything tech that challenges me and is impactful to a degree.
+- 📫 How to reach me [Twitter; private acc 👀 ](https://twitter.com/__ishallwin__) | [LinkedIn](https://www.linkedin.com/in/shalvinkumar95/)
+- 👨🏼‍💻 Working currently at [LeapFinance/LeapScholar](https://leapfinance.com/)
